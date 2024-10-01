@@ -1,6 +1,6 @@
 
 
-### **Real-Time Blink Detection and Face Tracking System**
+### **Real-Time Sleep Detection and Face Tracking System**
 
 **Project Overview**  
 This project showcases an advanced real-time **Blink Detection and Face Tracking System** using cutting-edge computer vision and machine learning techniques. The system utilizes **OpenCV**, **Dlib**, and **Mediapipe** to track facial landmarks, detect eye blinks, and monitor head movements with high precision. The goal of this project is to provide a seamless interface for detecting user fatigue or alertness by monitoring eye blinks and head orientation.
