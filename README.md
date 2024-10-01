@@ -1,6 +1,4 @@
-Here’s an attractive project description for your blink detection and face tracking system:
 
----
 
 ### **Real-Time Blink Detection and Face Tracking System**
 
